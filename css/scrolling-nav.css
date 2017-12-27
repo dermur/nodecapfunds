@@ -34,6 +34,11 @@ a {
   color: black !important;
 }
 
+a:hover {
+    background-color: yellow;
+}
+
+
 p.lead {
   font-family: 'Crimson Text', serif;
   font-size: 1.625em;
@@ -43,6 +48,11 @@ p.link {
   font-family: 'Crimson Text', serif;
   font-size: 1.625em;
   text-decoration: underline;
+}
+
+p.footer {
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
 }
 
 ul {
