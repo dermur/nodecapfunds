@@ -1,0 +1,61 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+
+h1 {
+  font-family: 'Crimson Text', serif;
+}
+
+h2 {
+  font-family: 'Crimson Text', serif;
+  font-size: 3.25em
+}
+
+a {
+  font-family: 'Crimson Text', serif;
+  color: black !important;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+
+p.lead {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.625em;
+}
+
+p.link {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.625em;
+  text-decoration: underline;
+}
+
+p.footer {
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
+}
+
+ul {
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
+}
